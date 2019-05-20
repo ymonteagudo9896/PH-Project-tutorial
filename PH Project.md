@@ -22,10 +22,6 @@ Google Docs is free to use. A Google account is required to log in (if you have 
 If you're working on a math, science, or a lab project you might find the need to use an equation but might not know how to accomplish that. Here are some steps showing you how to do that.
 
 
-
-
-
-
 1. Open/create your Google doc
 2. You would want to click on the place you want the equation
 3. Then on the toolbar you want to select ***“insert”*** then select ***“special characters”***
