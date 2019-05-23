@@ -1,3 +1,15 @@
+---
+title: Data Analysis With Google Suite
+authors:
+- Greg Joyce, Richard Soeum, Yamill Monteagudo
+date: 2019-05-20
+reviewers:
+- John Doe
+- Jason Loan
+layout: lesson
+Difficulty level: Intermediate
+---
+
 # **Adding equations into Google docs and share your work** #
 ---
 
